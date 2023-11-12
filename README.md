@@ -1,2 +1,2 @@
-# 00-Practice-Data
+# 00-Practice-Kaggle
 idk just practice (●'◡'●)
